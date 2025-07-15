@@ -1,4 +1,4 @@
-# 💬 Real-Time Chat App
+# 💬 Real-Time Chat
 
 A lightweight real-time chat application built using **WebSockets**, **Express**, and **Socket.io**. This project enables users to connect, join chat rooms, and send/receive messages instantly with low latency.
 
