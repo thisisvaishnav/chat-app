@@ -18,5 +18,3 @@ A lightweight real-time chat application built using **WebSockets**, **Express**
 - **Runtime**: Node.js vXX (mention your version)
 - **Package Manager**: npm or yarn
 
-## 📁 Project Structure
-
